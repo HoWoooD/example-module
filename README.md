@@ -1,1 +1,1 @@
-# eample-module
+# example-module
